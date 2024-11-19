@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "52L9j8SbNXU=",
+  "success": true,
+  "projectFilePath": "/Users/robertanderson/Desktop/repos/BankEncapsulation/BankEncapsulation/BankEncapsulation.csproj",
+  "expectedPackageFiles": [
+    "/Users/robertanderson/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/robertanderson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/robertanderson/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.33/microsoft.netcore.app.host.osx-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
